@@ -1,0 +1,4 @@
+Hello Cybersecurity World!
+This is a test file for Python hashing.
+1234567890
+Special chars: !@#$%^&*()
